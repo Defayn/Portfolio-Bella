@@ -306,7 +306,7 @@ transition: 0.4s ease-in-out;
 }
 
 .projects{
-    background: url(bac.jpg)center no-repeat;
+    background: url(img/bac.jpg)center no-repeat;
     background-size: cover ;
 }
 .projects-box{
